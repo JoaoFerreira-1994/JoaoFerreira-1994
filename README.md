@@ -13,7 +13,7 @@ I'm a **Full Stack Developer** passionate about software development, backend sy
 ### 💻 Technologies & Tools
 
 **Languages:**
-Java • Python • C • C++ • JavaScript • PHP • SQL
+Java • Python • C • C++ • JavaScript • PHP • SQL • JAVA
 
 **Web:**
 HTML • CSS • Bootstrap • Flask • REST APIs
